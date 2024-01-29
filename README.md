@@ -37,8 +37,9 @@
     + *Desempenho do ataque* 
        - **Manchester City** lidera o gráfico com o total de 94 gols marcados, 78,6 de gols previstos e 64,7 % de posse de bola em média.
        - **Wolves** tem o pior ataque com 31 gols marcados, 50 % de posse de bola em média e 36,8 de gols previstos, porém o **Nottingham Forest** marcou 38 gols e teve a pior média de posse de bola com 37,6 % e teve 39,3 de gols previstos.
+       - 
+![Ataque](https://github.com/luanrpinho/Premier_League_22-23_Web_Scraping-R/assets/156137815/c9bf832a-ae4c-4d70-8831-b10510b0f779)
 
-![Ataque](https://github.com/luanrpinho/Premier_League_22-23_Web_Scraping-R/assets/156137815/4f0ef253-07ae-48d1-b454-43b5168671b3)
 -----
 
 3. **Defesa - Gráfico de Bolhas:**
@@ -51,7 +52,7 @@
         - **Leeds Utd** tem a pior defesa com 78 gols sofridos e 67,2 em média de gols previstos.
         - **Manchester City** e **Newcastle Utd** tem a melhor defesa com o total de 33 gols sofridos e 5 derrotas, porém o **Newcastle Utd** tem maior média de gols previstos permitidos com 39,6 contra 32,1 do **Manchester City**.
 
-![Defesa](https://github.com/luanrpinho/Premier_League_22-23_Web_Scraping-R/assets/156137815/522e49a7-7122-426f-9e14-ff41acf06f2d)
+![Defesa](https://github.com/luanrpinho/Premier_League_22-23_Web_Scraping-R/assets/156137815/451cb9b5-2b43-464d-8c18-d1fb7afe6361)
 -----
 
 4. **Fair play – Gráfico de Barras:**
@@ -68,9 +69,9 @@
    - **Southampton** também está na lista de equipes com maior elenco, sendo 36 jogadores.
    - **Manchester City** tem o menor elenco da liga, 24 jogadores.
 
-![Média de idade](https://github.com/luanrpinho/Premier_League_22-23_Web_Scraping-R/assets/156137815/1ae9113d-69ea-4b3b-806f-2eb00a015052)
+![Média de Idade](https://github.com/luanrpinho/Premier_League_22-23_Web_Scraping-R/assets/156137815/78130b7b-4372-469e-b02c-2a41b795d6b2)
 
-![Número de jogadores](https://github.com/luanrpinho/Premier_League_22-23_Web_Scraping-R/assets/156137815/244efeb5-a6c3-455f-a645-1a103a8af7ad)
+![Número de Jogadores](https://github.com/luanrpinho/Premier_League_22-23_Web_Scraping-R/assets/156137815/c33be1a7-0d8f-4941-9705-d051d514f4f2)
 
 -----
 
