@@ -7,7 +7,7 @@
 <br/>
 
 ## Objetivo:
-- Este projeto tem como objetivo criar uma tabela da Premier League, uma das ligas de futebol mais prestigiadas e remonadas do mundo por meio de web scraping e posteriormente realizar uma visualização utilizando o Power BI.
+- Este projeto tem como objetivo criar uma tabela da Premier League, uma das ligas de futebol mais prestigiadas e renomadas do mundo por meio de web scraping e posteriormente realizar uma visualização utilizando o Power BI.
 <br/>
 
 ## Etapas do projeto:
