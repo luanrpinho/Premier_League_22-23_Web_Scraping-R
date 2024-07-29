@@ -20,12 +20,13 @@
 1. **Desempenho geral - Gráfico de barras 100% empilhadas e Gráfico de Funil:**
    - Com um total de 380 partidas, 1084 gols marcados no total e média de 2,85 gols por jogo.
    - A média por equipe foi de 14,6 vitórias, 8,7 empates e 14,6 derrotas. 
-   - **Manchester City** liderou a tabela com uma marca impressionante de 28 vitórias em 38 partidas. Com 73,7% de aproveitamento.
-   - **Southampton** ficou em último com apenas 6 vitórias em 38 partidas. Com 15,8% de aproveitamento.
+   - **Manchester City** liderou a tabela com uma marca impressionante de 28 vitórias em 38 partidas. Com 78,1% de aproveitamento.
+   - **Southampton** ficou em último com apenas 6 vitórias em 38 partidas. Com 21,9% de aproveitamento.
      
 ![Vitórias, empates e derrotas](https://github.com/luanrpinho/Premier_League_22-23_Web_Scraping-R/assets/156137815/fb9cacba-c9c5-41ae-b968-37bef325d545)
 
-![Aproveitamento](https://github.com/luanrpinho/Premier_League_22-23_Web_Scraping-R/assets/156137815/0abf19de-fafe-474d-9edf-69d1da67a86d)
+![Aproveitamento](https://github.com/user-attachments/assets/a40a8ebb-9fb2-4192-8247-850293d6e51b)
+
 -----
 
 2. **Ataque - Gráfico de Bolhas:**
